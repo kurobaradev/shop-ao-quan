@@ -1,0 +1,53 @@
+{
+    "products":[
+        {
+            "_id": "dress1",
+            "image": "/images/Sanpham1.jpg",
+            "title": "San pham so 1",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 100000
+          },
+          {
+            "_id": "dress2",
+            "image": "/images/Sanpham2.jpg",
+            "title": "San pham so 2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["X", "M", "L"],
+            "price": 250000
+          },
+          {
+            "_id": "dress3",
+            "image": "/images/Sanpham3.jpg",
+            "title": "San pham so 3",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["X", "M", "L"],
+            "price": 412000
+          },
+          {
+            "_id": "dress4",
+            "image": "/images/Sanpham4.jpg",
+            "title": "San pham so 4",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["XL"],
+            "price": 500000
+          },
+          {
+            "_id": "dress5",
+            "image": "/images/Sanpham5.jpg",
+            "title": "San pham so 5",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["X", "L", "XL"],
+            "price": 200000
+          },
+          {
+            "_id": "dress6",
+            "image": "/images/Sanpham6.jpg",
+            "title": "San pham so 6",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+            "availableSizes": ["XL", "XXL"],
+            "price": 300000
+          }
+    
+    ]
+}
